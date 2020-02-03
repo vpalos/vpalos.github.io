@@ -1,0 +1,2 @@
+# vpalos.com
+Ze blog.
