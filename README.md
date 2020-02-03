@@ -1,2 +1,3 @@
 # vpalos.com
-Ze blog.
+
+Source code for the vpalos.com website.
