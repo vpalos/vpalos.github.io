@@ -1,0 +1,27 @@
+# Permalinks
+permalink: pretty
+
+# Setup
+title: "Valeriu Paloş"
+tagline: "// milk, cookies and segfaults"
+description: >
+  Hi!<br />
+  I'm Valeriu, an engineer.<br />
+  An engineer of things.<br /><br />
+  Things like... distributed systems, infrastructures, programming languages and well... a lot!
+url: https://vpalos.com/
+baseurl: ""
+paginate: 5
+
+# About/contact
+author:
+  name: Valeriu Paloş
+  url: https://www.linkedin.com/in/vpalos/
+  email: hi@vpalos.com
+
+# Custom vars
+version: 1.0.0
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag

@@ -2,6 +2,8 @@
 
 Source code for the vpalos.com website.
 
+Basedn on [Jekyll](http://jekyllrb.com/) with the [Lanyon](https://github.com/poole/lanyon) theme.
+
 ## Licensing & Copyright
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
