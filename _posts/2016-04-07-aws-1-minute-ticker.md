@@ -110,7 +110,7 @@ What's left is to use a [CF custom resource](http://docs.aws.amazon.com/AWSCloud
 - Clone the code (see below) and use it to launch a CF stack. You'll have to upload the lambda function (the `tick.zip` file) on S3 somewhere (and update it's URI in the CF JSON file).
 - After it started, you should observe in the CloudWatch -> Logs section that a log message is published every minute by the Lambda function (see screenshot below).
 
-![Invocation traces](/assets/lambda-ticker-logs.png)
+[![Invocation traces](/assets/lambda-ticker-logs.png)](/assets/lambda-ticker-logs.png)
 
 ## Some considerations
 
