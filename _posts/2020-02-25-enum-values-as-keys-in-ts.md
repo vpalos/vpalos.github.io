@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using `enum` values as strictly typed object keys in TypeScript.
+title: Using `enum` values as strictly typed object keys
 categories: [programming]
 tags: [typescript, enum]
 ---
