@@ -6,7 +6,7 @@ tags: [typescript, enum]
 ---
 
 In TypeScript, it's often useful to define interfaces or complex (structured)
-types whose properties (or keys) may only be the values of a previously defined
+types whose properties (or keys) may only be values of a previously defined
 `enum` type.
 
 Here's a good example: an object declaring a set of buttons for a modal dialog.
