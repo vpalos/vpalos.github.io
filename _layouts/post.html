@@ -4,10 +4,10 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date"
-    >{{ page.date | date_to_string }}{% for tags in page.tags %}, {{ tags }}{%
-    endfor %}</span
-  >
+  <span class="post-date">
+    {{ page.date | date_to_string }}{% for tags in page.tags %}, {{ tags }}{% endfor %}, 
+    <a href="{{site.github.repository_url}}/blob/gh-pages/{{page.path}}">improve this page</a>
+  </span>
   {{ content }}
 </div>
 
