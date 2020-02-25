@@ -3,6 +3,7 @@ layout: post
 title: Using `enum` values as strictly typed object keys
 categories: [programming]
 tags: [typescript, enum, mapped types]
+comments: true
 ---
 
 In TypeScript, it's often useful to define interfaces or complex (structured)
