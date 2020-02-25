@@ -46,7 +46,7 @@ This works, but once we try to use these values in other contexts, the approach 
 
 Therefore...
 
-## We can use `enum`'s.
+## ...we can use `enum` values.
 
 ```ts
 enum DialogButton {
