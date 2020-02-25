@@ -5,7 +5,7 @@ categories: [programming]
 tags: [typescript, enum]
 ---
 
-In TypeScript, it's ofthen very useful define interfaces or compex (structured)
+In TypeScript, it's often useful to define interfaces or complex (structured)
 types whose properties (or keys) may only be the values of a previously defined
 `enum` type.
 
