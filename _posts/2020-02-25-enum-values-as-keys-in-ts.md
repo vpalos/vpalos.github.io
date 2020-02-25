@@ -82,7 +82,8 @@ dialog.callback(DialogButton.YES) // yes
 dialog.callback(DialogButton.NO) // no
 dialog.callback(DialogButton.CANCEL) // cancel
 ```
-This allows us to play around with the actual button values with a lot more flexibility, for example we could
+This uses the a TypeScript feature called [Mapped Types](https://www.typescriptlang.org/docs/handbook/advanced-types.html#mapped-types) 
+and allows us to play around with the actual button values with a lot more flexibility, for example we could
 define an array of buttons.
 
 ```ts
