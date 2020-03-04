@@ -15,19 +15,14 @@ Less talk, more code...
 
 ```ts
 const someFunctionalComponent = (p: {index: number}) => {
-  /**
-   * Always keep the last positive value around.
-   */
+  // Keep the last positive value around.
   const lastPositiveIndexRef = React.useRef<number>(Math.max(p.index, 0));
   if (p.index >= 0) {
     lastPositiveIndexRef.current = p.index;
   }
   
-  /**
-   * Here, ref will always have the last positive input, if we need it.
-   */
+  // Here, the ref will always have the last positive input.
   const positiveIndex = p.index >= 0 ? p.index : lastPositiveIndexRef.current;
-  
   return <span>I'm only allowing positive numbers to be shown: {positiveIndex}</span>
 }
 ```
