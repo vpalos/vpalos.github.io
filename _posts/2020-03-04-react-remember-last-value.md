@@ -29,7 +29,7 @@ const someFunctionalComponent = (p: {index: number}) => {
 
 Here's a [working sample](https://jsfiddle.net/valeriupalos/znoqju5d/12/) (JSFiddle).
 
-I found the following comment from the React documentation page, quite illuminating...
+I found the following comment from the React [documentation](https://reactjs.org/docs/hooks-reference.html#useref), quite illuminating...
 > However, `useRef()` is useful for more than the `ref` attribute. It’s handy for [keeping any mutable value around](https://reactjs.org/docs/hooks-faq.html#is-there-something-like-instance-variables) similar to how you’d use instance fields in classes.
 
 Enjoy!
