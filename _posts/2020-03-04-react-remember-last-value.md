@@ -16,8 +16,7 @@ Less talk, more code...
 ```ts
 const someFunctionalComponent = (p: {index: number}) => {
   /**
-   * We're always keeping the last positive value around, so as to allow
-   * the selector to re-appear from the same position it disappeared from.
+   * Always keep the last positive value around.
    */
   const lastPositiveIndexRef = React.useRef<number>(Math.max(p.index, 0));
   if (p.index >= 0) {
