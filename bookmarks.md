@@ -25,6 +25,7 @@ An ever-growing list of projects and sites that I find useful and interesting.
 ## Libraries
 
 - C
+  - [Pelagia](https://surparallel.org/) - Automatic parallelization framework/library.
   - [dietlibc](https://www.fefe.de/dietlibc/) - tiny implemetation of the standard `libc`
   - [LibEIO](http://software.schmorp.de/pkg/libeio.html) - high performance asynchronous I/O in pure C
   - [LibEV](http://software.schmorp.de/pkg/libev.html) - high performance event loop in pure C
