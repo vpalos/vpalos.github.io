@@ -27,6 +27,6 @@ const someFunctionalComponent = (p: {index: number}) => {
 }
 ```
 
-Here's a [working sample](https://jsfiddle.net/valeriupalos/znoqju5d/11/) (JSFiddle).
+Here's a [working sample](https://jsfiddle.net/valeriupalos/znoqju5d/12/) (JSFiddle).
 
 Enjoy!
