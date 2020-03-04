@@ -13,7 +13,7 @@ However, we can use the `useRef()` React hook to achieve that quite efficiently.
 
 Less talk, more code (typescript)...
 
-```ts
+```tsx
 const someFunctionalComponent = (p: {index: number}) => {
   // Keep the last positive value around.
   const lastPositiveIndexRef = React.useRef<number>(Math.max(p.index, 0));
