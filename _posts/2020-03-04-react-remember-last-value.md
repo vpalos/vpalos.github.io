@@ -11,7 +11,7 @@ Perhaps this is easier to be imagined in a class component, but in a functional 
 
 However, we can use the `useRef()` React hook to achieve that quite efficiently.
 
-Less talk, more code...
+Less talk, more code (typescript)...
 
 ```ts
 const someFunctionalComponent = (p: {index: number}) => {
