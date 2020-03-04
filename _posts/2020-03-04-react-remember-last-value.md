@@ -1,3 +1,11 @@
+---
+layout: post
+title: Remember last value in React functional components
+categories: [programming]
+tags: [react, typescript, useRef, remember]
+comments: true
+---
+
 Sometimes it can be very useful to save previous values of props (or state) in a React component.
 Perhaps this is easier to be imagined in a class component, but in a functional component, less so.
 
