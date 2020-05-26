@@ -6,10 +6,11 @@ comments: true
 
 An ever-growing list of projects and sites that I find useful and interesting.
 
-## Programming languages
+## Programming languages / Run-times
 
 - [Lua](https://www.lua.org/) / [LuaJIT](https://luajit.org/index.html) - fast and lightweight embeddable language
 - [NekoVM](https://nekovm.org/) - high performance VM and embeddable language
+- [Deno](https://deno.land/) - JS and TS run-time built on V8 and Rust
 
 ## Infrastructure
 
