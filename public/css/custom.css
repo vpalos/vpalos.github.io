@@ -1,0 +1,5 @@
+img.float-right {
+  float: right;
+  margin-left: 20px;
+  max-width: 100px;
+}
