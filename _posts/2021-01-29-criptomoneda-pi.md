@@ -57,7 +57,7 @@ Am scris acest scurt articol în special pentru prietenii și apropiații mei ce
 Pași necesari:
 
 - a) [Dă click aici](https://minepi.com/valeriupalos) pe telefonul tău și instalează-ți aplicația.
-- b) Când îți cere codul de invitație, introdu "**valeriupalos**" (sau codul celui care te-a invitat). O să primești **1 &pi;** pentru început.
+- b) Când îți cere codul de invitație, introdu "**valeriupalos**" (sau codul celui care te-a invitat, dacă e altcineva). O să primești **1 &pi;** pentru început.
 - c) După ce începi să minezi, confirmă-ți numărul de telefon: **Meniu -> Profile -> Verificarea contului**. Dacă nu faci asta, monedele strânse nu au valoare.
 - d) **O dată pe zi, apasă butonul verde din aplicație** ca să minezi.
 
