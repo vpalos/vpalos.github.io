@@ -15,7 +15,7 @@ Am scris acest scurt articol în special pentru prietenii și apropiații mei ce
 
 - O [criptomonedă](https://ro.wikipedia.org/wiki/Criptomoned%C4%83) este **o valută ca oricare alta** (așa cum sunt Euro sau Lirele sterline) **însă virtuală**, adică există numai "pe Internet".
 - Este perfect posibil să cumperi și să vinzi cam orice cu criptomonede, sau **să le schimbi în bani reali**, când vrei tu.
-  > Valoarea lor diferă foarte mult, în special funcție de popularitatea fiecăreia. De exemplu acum **1 Bitcoin valorează aproximativ 35 000 USD** (vezi [aici](https://www.coindesk.com/price/bitcoin)).
+  > Valoarea lor diferă foarte mult, în special funcție de popularitatea fiecăreia. De exemplu acum **1 Bitcoin valorează peste 30 000 USD** (vezi [aici](https://www.coindesk.com/price/bitcoin)).
 
 ## 2. Ce înseamnă să "minezi"?
 
@@ -65,3 +65,5 @@ Pași opționali, dar recomandați pentru a-ți crește viteza de minerit:
 
 - e) Adaugă și alte persoane din rețea în "Security Circle"-ul tău (posibil să ai deja persoane din lista de contacte care sunt membri Pi).
 - f) Invită-ți alți prieteni în rețea, apăsând butonul "Invită" din partea de jos a ecranului.
+
+**Spor la minerit!**
