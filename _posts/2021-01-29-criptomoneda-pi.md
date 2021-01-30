@@ -63,7 +63,7 @@ Am scris acest scurt articol în special pentru prietenii și apropiații mei ce
   - fără pasul acesta, nu-ți vor fi recunoscute monedele.
 - d) **O dată pe zi, apasă butonul verde din aplicație** ca să minezi.
   
-**Asta e tot!**
+**Gata!**
 
 Metode pentru a mina cu viteză mare:
 
