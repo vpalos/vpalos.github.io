@@ -56,11 +56,11 @@ Am scris acest scurt articol în special pentru prietenii și apropiații mei ce
 
 - a) [Dă click aici](https://minepi.com/valeriupalos) pe telefonul tău și instalează-ți aplicația.
 - b) Când îți cere codul de invitație, introdu "**valeriupalos**" (sau codul persoanei care te-a invitat, dacă e vorba de altcineva). O să primești **1 &pi;** pentru început.
-- c) **ATENȚIE!!!** E obligatoriu să-ți confirmi numărul de telefon, astfel:
+- c) **ATENȚIE!** E neapărat să-ți confirmi numărul de telefon:
   - intră la **Meniu -> Profile -> Verificarea contului**; 
   - apasă **VERIFY** din dreptul "Phone number" ;
-  - apasă **butonul verde "START"** și spoi **trimite SMS-ul** generat de aplicație.
-  - dacă nu faci acest pas, monedele tale nu vor fi recunoscute (validate).
+  - apasă **START** și spoi **trimite SMS-ul** generat.
+  - fără pasul acesta, nu-ți vor fi recunoscute monedele.
 - d) **O dată pe zi, apasă butonul verde din aplicație** ca să minezi.
   
 **Asta e tot!**
