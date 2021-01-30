@@ -65,7 +65,7 @@ Am scris acest scurt articol în special pentru prietenii și apropiații mei ce
   
 **Asta e tot!**
 
-Alte metode pentru a-ți crește viteza de minerit:
+Metode pentru a mina cu viteză mare:
 
 - Invită-ți alți prieteni în rețea, apăsând butonul "Invită" din partea de jos a ecranului.
 - Adaugă și alte persoane din rețea în "Security Circle"-ul tău (posibil să ai deja persoane din lista de contacte care sunt membri Pi).
