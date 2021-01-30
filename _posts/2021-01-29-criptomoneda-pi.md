@@ -39,7 +39,7 @@ Am scris acest scurt articol în special pentru prietenii și apropiații mei ce
 ## 4. Ce voi putea face cu monedele strânse?
 
 - Odată ce creatorii Pi vor lansa moneda pe piață spre tranzacționare, vei putea cumpăra (și vinde) cu monedele acumulate și le vei putea schimba în bani reali, când vrei tu.
-- **Recomandarea mea este să nu te grăbești să schimbi monedele Pi pe bani** ci să aștepți mai mult timp ca să-i crească valoarea.
+- **Recomandarea mea este să nu te grăbești să schimbi monedele Pi pe bani** ci să aștepți mai mult timp ca să le crească valoarea.
 - Deși nu avem cum să știm acum cât vor valora monedele Pi în bani reali (Euro sau Dolari), potențialul Pi este relativ mare, datorită popularității crescute.
 - Este foarte clar că piața de criptomonede **crește, și încă extrem de agresiv**.
 
