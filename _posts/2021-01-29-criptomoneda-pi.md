@@ -54,16 +54,19 @@ Am scris acest scurt articol în special pentru prietenii și apropiații mei ce
 
 ## 7. Bun, ce trebuie să fac?
 
-Pași necesari:
-
 - a) [Dă click aici](https://minepi.com/valeriupalos) pe telefonul tău și instalează-ți aplicația.
 - b) Când îți cere codul de invitație, introdu "**valeriupalos**" (sau codul persoanei care te-a invitat, dacă e vorba de altcineva). O să primești **1 &pi;** pentru început.
-- c) După ce începi să minezi, confirmă-ți numărul de telefon: **Meniu -> Profile -> Verificarea contului**. Dacă nu faci asta, monedele strânse nu au valoare.
+- c) **IMPORTANT! Este obligatoriu să îți confirmi numărul de telefon, ca să-ți fie validate monedele strânse!**
+  - intră la **Meniu -> Profile -> Verificarea contului**; 
+  - apasă **VERIFY** din dreptul "Phone number" ;
+  - apasă **butonul verde "START"** și spoi **trimite SMS-ul** generat de aplicație.
 - d) **O dată pe zi, apasă butonul verde din aplicație** ca să minezi.
+  
+**Asta e tot!**
 
-Pași opționali, dar recomandați pentru a-ți crește viteza de minerit:
+Alte metode pentru a-ți crește viteza de minerit:
 
-- e) Adaugă și alte persoane din rețea în "Security Circle"-ul tău (posibil să ai deja persoane din lista de contacte care sunt membri Pi).
-- f) Invită-ți alți prieteni în rețea, apăsând butonul "Invită" din partea de jos a ecranului.
+- Invită-ți alți prieteni în rețea, apăsând butonul "Invită" din partea de jos a ecranului.
+- Adaugă și alte persoane din rețea în "Security Circle"-ul tău (posibil să ai deja persoane din lista de contacte care sunt membri Pi).
 
 **Spor la minerit!**
