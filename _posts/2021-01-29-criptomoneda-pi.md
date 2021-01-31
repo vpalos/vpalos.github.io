@@ -7,7 +7,7 @@ comments: true
 ---
 
 ![](/assets/pi-logo.png){: .float-right}
-Am scris acest scurt articol în special pentru prietenii și apropiații mei ce vor să înțeleagă în câteva cuvinte despre ce e vorba cu [noua criptomonedă numită "**Pi**"](https://minepi.com/valeriupalos) creată de [3 doctoranzi](https://minepi.com/team) de la Universitatea Stanford. Am răspuns mai jos foarte succint la **7 întrebări** care mi se par cele mai frecvent întâlnite pe acest subiect.
+Iată un scurt articol special pentru prietenii și apropiații mei ce vor să înțeleagă în câteva cuvinte despre ce e vorba cu [noua criptomonedă numită "**Pi**"](https://minepi.com/valeriupalos) creată de [3 doctoranzi](https://minepi.com/team) de la Universitatea Stanford. Aici găsești răspunsuri foarte succinte la **7 întrebări** frecvent întâlnite pe acest subiect.
 
 ## 1. Ce este o criptomonedă?
 
