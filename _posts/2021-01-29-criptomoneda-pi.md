@@ -7,7 +7,7 @@ comments: true
 ---
 
 ![](/assets/pi-logo.png){: .float-right}
-Iată un scurt articol special pentru prietenii și apropiații mei ce vor să înțeleagă în câteva cuvinte despre ce e vorba cu [noua criptomonedă numită "**Pi**"](https://minepi.com/valeriupalos) creată de [3 doctoranzi](https://minepi.com/team) de la Universitatea Stanford. Aici găsești răspunsuri foarte succinte la **7 întrebări** frecvent întâlnite pe acest subiect.
+Am scris acest scurt articol special pentru prietenii și apropiații mei ce vor să înțeleagă în câteva cuvinte despre ce e vorba cu [noua criptomonedă numită "**Pi**"](https://minepi.com/valeriupalos) creată de [3 doctoranzi](https://minepi.com/team) de la Universitatea Stanford. Aici găsești răspunsuri foarte succinte la **7 întrebări** frecvent întâlnite pe acest subiect.
 
 ## 1. Ce este o criptomonedă?
 
@@ -71,7 +71,3 @@ Metode pentru a mina cu viteză mare:
 - Adaugă și alte persoane din rețea în "Security Circle"-ul tău (posibil să ai deja persoane din lista de contacte care sunt membri Pi).
 
 **Spor la minerit!**
-
----
-
-P.S.: Acest articol este conceput să fie răspândit, așa că **poți să-l copiezi și să-l trimiți mai departe la apropiații tăi, punând ID-ul tău la sfârșit în instrucțiuni**. Mult succes!
