@@ -71,3 +71,7 @@ Metode pentru a mina cu viteză mare:
 - Adaugă și alte persoane din rețea în "Security Circle"-ul tău (posibil să ai deja persoane din lista de contacte care sunt membri Pi).
 
 **Spor la minerit!**
+
+---
+
+P.S.: Acest articol este conceput să fie răspândit, așa că **poți să-l copiezi și să-l trimiți mai departe la apropiații tăi, punând ID-ul tău la sfârșit în instrucțiuni**. Mult succes!
