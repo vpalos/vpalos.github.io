@@ -36,6 +36,8 @@ An ever-growing list of projects and sites that I find useful and interesting.
   - [uthash](http://troydhanson.github.io/uthash/) - high performance data structures in pure C
 - Lua
   - [LPEG](http://www.inf.puc-rio.br/~roberto/lpeg/) - parsing Expression Grammars for Lua
+- JavaScript
+  - [You don't need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 - Multi-language
   - [ZeroMQ](https://zeromq.org/) - high performance and tiny messaging library
 
