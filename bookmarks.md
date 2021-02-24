@@ -11,6 +11,7 @@ An ever-growing list of projects and sites that I find useful and interesting.
 - [Lua](https://www.lua.org/) / [LuaJIT](https://luajit.org/index.html) - fast and lightweight embeddable language
 - [NekoVM](https://nekovm.org/) - high performance VM and embeddable language
 - [Deno](https://deno.land/) - JS and TS run-time built on V8 and Rust
+- [Vx32](https://pdos.csail.mit.edu/~baford/vm/) - Sandboxing VM for native code.
 
 ## Infrastructure
 
