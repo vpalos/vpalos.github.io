@@ -23,6 +23,7 @@ An ever-growing list of projects and sites that I find useful and interesting.
 - [ipsvd](http://smarden.org/ipsvd/index.html) - ad-hoc TCP/UDP/SSL servers
 - [ucspi-tcp](https://cr.yp.to/ucspi-tcp.html) - turn any process into a TCP server
 - [runit](http://smarden.org/runit/) - robust service supervisor
+- [OpenResty](https://openresty.org/) - high-performance (Nginx+LuaJit) web application server
 
 ## Libraries
 
