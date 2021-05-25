@@ -28,6 +28,7 @@ An ever-growing list of projects and sites that I find useful and interesting.
 ## Libraries
 
 - C
+  - [BearSSL](https://www.bearssl.org/) - smaller SSL/TLS implementation.
   - [Pelagia](https://surparallel.org/) - automatic parallelization framework/library.
   - [dietlibc](https://www.fefe.de/dietlibc/) - tiny implemetation of the standard `libc`
   - [LibEIO](http://software.schmorp.de/pkg/libeio.html) - high performance asynchronous I/O in pure C
